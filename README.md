@@ -9,7 +9,7 @@ It includes **visualizations, data preprocessing, and evaluation metrics** to an
 
 ## 🚀 Features
 - Preprocessing of dataset (cleaning & feature selection)
-- Training with 5 ML algorithms:
+- Training with 4 ML algorithms:
   - Gradient Boosting Regressor
   - Decision Tree Regressor
   - Random Forest Regressor
